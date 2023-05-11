@@ -1,0 +1,30 @@
+.game-btn {
+    background-color: #FF5722;
+    border: none;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 2px 2px 2px #888888;
+  }
+  
+  .game-btn:hover {
+    background-color: #FF7043;
+  }
+  
+  .game-btn:active {
+    background-color: #F44336;
+    box-shadow: none;
+  }
+   
+  <div class="payment-box">
+  <div class="d-flex justify-content-between">
+    <h5>ACCEPTED PAYMENT OPTIONS</h5>
+  </div>
+  <div class="payment-options" style="height: 50%; display: flex; flex-direction: row;">
+    <div style="display: flex; text-align: center; padding: 0;">
+      <marquee style="font-size: 20px;" behavior="" direction="
